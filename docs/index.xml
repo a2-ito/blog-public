@@ -9,7 +9,23 @@
       <link>https://a2ito.ml/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 07 Apr 2022 21:53:09 +0900</lastBuildDate><atom:link href="https://a2ito.ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 10:35:27 +0900</lastBuildDate><atom:link href="https://a2ito.ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>コスパ最強のゲーミングPCを作ってみる</title>
+      <link>https://a2ito.ml/posts/20220626-post/</link>
+      <pubDate>Sun, 26 Jun 2022 10:35:27 +0900</pubDate>
+      
+      <guid>https://a2ito.ml/posts/20220626-post/</guid>
+      <description>オーバーウォッチ、やっていますか？
+僕は最近毎日やっています。面白いですね。普段 Switch でやっているんですが、PC でもやってみたくなったので人生初のゲーミングPCを自作してみたいと思います。（これまで PC 自作は数回経験していますが、ゲーミングPCという観点では初めてです。）
+コスパを重視して組んでみたので、同じようにゲーミングPCを作りたい人は参考にしてみてください。（作りたくない人は既製品買ってください。）
+本記事のサマリ  コスパ重視のゲーミングPCを自作した 13万弱で完成、パフォーマンス問題なし(FFベンチはフルHDで「とても快適」評価） 同程度の既製品と比較したが、コスパは若干勝っている or 同程度（すごく勝っている感じもないが、負けてはなさそう）   コンセプト まずは今回の自作PCのコンセプトを整理します。
+ FPSが普通にいい感じにプレイできる  オーバーウォッチのPC版をやるのが目的です。とはいえ相当高いFPSを求めているわけではないので、「普通にプレイできる」としています（エンジョイ勢向け） FPS以外はCPUを使うような用途はありません。ネットサーフィンするくらい。多分。   コスパがいい  コスパが悪いものを目指す人はいないと思いますが、イメージ 10万～15万 くらいを目指します。 特にグラボは良いものを買うとそれ単品で15万とか軽く超えてくる感じなので、それなりの性能のものを選択しつつ、PC全体としてのコストは抑えていきます。   サイズは任意  大きさとか見た目にこだわるとパーツ選びも制約が出てきますが、今回はスタンダードなATX(一番でかいやつ)で気にせず作ります。    パーツ選定 買ったパーツと購入価格を記載しておきます。
+選定前の注意事項 オーバーウォッチ（というかやりたいゲーム）が必要とするシステム要件はいうまでもなく確認しましょう。
+どうでもいいですがオーバーウォッチは 2 が2022年10月にリリースで、ベータ版は6月時点で既にリリースされているので、そのベータ版の情報をベースにセットアップします。サクサクやりたいので（必要動作環境ではなく）推奨動作環境を基準にします。
+ OS は Windows 10 だけ プロセッサ Intel Core i7 または AMD Ryzen メモリ 8GB RAM NVIDIA GeForce GTX 1060または AMD R9 380  なお当初は（OS代けちって）Linux で組んで Wine で動かしたろ、って思っていたのですが、色々調べていくと Linux ユーザというだけで ban された（アカウントが凍結されること）人もいるようです。ちょっと怖いので素直に Windows でいきます。</description>
+    </item>
+    
     <item>
       <title>コピペでmarkdownに画像を取り込む VS Code plugin Paste Image を試す</title>
       <link>https://a2ito.ml/posts/20220407-post/</link>
